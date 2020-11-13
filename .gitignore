@@ -6,3 +6,6 @@ README.html
 Gemfile.lock
 result
 env.nix
+
+.stack-work
+stack.yaml.lock
